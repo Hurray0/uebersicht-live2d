@@ -1,7 +1,8 @@
 # uebersicht-live2d
 show live2d on Mac desktop
 
-![](./creenshot.gif)
+![](./screenshot.png)
+![](./screenshot.gif)
 
 ## HOW-TO-USE
 The project is based on uebersicht/Übersicht App on Mac.
